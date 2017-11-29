@@ -1,0 +1,4 @@
+Number of Games : 3
+Number of Wins : 2
+Number of Loses : 1
+Average Net Credits Per Game : 1.0

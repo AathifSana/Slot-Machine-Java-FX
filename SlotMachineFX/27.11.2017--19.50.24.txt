@@ -1,0 +1,4 @@
+Number of Games : 12
+Number of Wins : 7
+Number of Loses : 5
+Average Net Credits Per Game : 2.0
